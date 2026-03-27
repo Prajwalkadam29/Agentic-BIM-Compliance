@@ -15,7 +15,7 @@ It provides structural engineers with explainable AI outputs, interactive 3D vis
 
 StructurAI Co-Pilot utilizes a highly modular, multi-agent architecture orchestrated by LangGraph. It seamlessly integrates deep IFC parsing, Vision-guided RAG, and an immutable audit trail.
 
-![System Architecture Flowchart](Screenshot 2026-03-27 100323.png)
+![System Architecture Flowchart](assets/unified_sys_architecture.png)
 
 ### The Agentic Pipeline
 1. **Input Layer:** Ingests IFC building models alongside structured SP 16 tables and IS/BIS Code PDFs (IS 456, 800, 1893, NBC 2016).
@@ -32,7 +32,7 @@ StructurAI Co-Pilot utilizes a highly modular, multi-agent architecture orchestr
 
 The platform's capabilities are divided into three distinct tiers, ranging from core compliance to advanced AI differentiators.
 
-![Capability Tiers](Screenshot 2026-03-27 100312.png)
+![Capability Tiers](assets/master_features.png)
 
 ### Tier 1: Core Functionality
 * **IS 456 Compliance Checks:** Automated evaluation of beams, columns, and slabs (Pu formulas).
