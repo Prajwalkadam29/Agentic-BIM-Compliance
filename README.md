@@ -55,3 +55,11 @@ The platform's capabilities are divided into three distinct tiers, ranging from 
 * **Docker One-Click Demo:** Fully containerized deployment for seamless, live-hosted presentation to judges.
 
 ---
+
+## 🧪 Evaluation Metrics
+
+Our pipeline is rigorously tested against a golden dataset of structural designs , utilizing the **RAGAS framework** to ensure safety-critical accuracy:
+* **F1 Score**
+* **Faithfulness (RAGAS)**
+
+---
