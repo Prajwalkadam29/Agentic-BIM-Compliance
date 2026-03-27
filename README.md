@@ -63,3 +63,27 @@ Our pipeline is rigorously tested against a golden dataset of structural designs
 * **Faithfulness (RAGAS)**
 
 ---
+
+## 📚 Research and References
+
+Grounded in Peer-Reviewed Research & Industry Standards.
+
+### Engineering Standards
+
+* **IS 456:2000:** Plain and Reinforced Concrete compliance code implemented.
+* **IS 1893:2016 (Part 1):** Criteria for Earthquake Resistant Design. Used for seismic zone mapping and storey drift checks.
+* **IS 800:2007:** General Construction in Steel - Code of Practice. Used for steel member checks.
+* **SP 16:1980:** Design Aids for Reinforced Concrete to IS 456. Pre-loaded as structured tables for Design Assistant.
+* **NBC 2016:** National Building Code of India. Occupancy and fire resistance checks.
+
+### AI & Technical Research
+
+1. **IfcOpenShell Python API (`https://ifcopenshell.org/docs/`):** IFC parsing, topology traversal, PropertySet extraction.
+2. **LangChain RAG Docs (`https://python.langchain.com/docs/use_cases/question_answering/`):** RAG pipeline, EnsembleRetriever, HyDE implementation.
+3. **RAGAS Framework:** Shahul et al. (2023) RAG evaluation: faithfulness, context recall, precision, answer relevancy.
+4. **xeokit BIM Viewer SDK (`https://xeokit.io`):** Open-source BIM viewer, BCFViewpoints Plugin, StoreyViews Plugin.
+5. **IS 456:2000:** Plain and Reinforced Concrete Code, BIS: https://www.bis.gov.in
+6. **AI in AEC Compliance:** Frontiers in Built Environment (2025), MDPI Metals (2025), Nature Scientific Reports (2023).
+7. **Anthropic Claude API:** https://docs.anthropic.com
+
+---
